@@ -14,3 +14,13 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+footer {
+  color: #f0e8c2;
+  text-align: center;
+  padding-bottom: 48px;
+}
+
+footer img {
+  vertical-align: middle;
+}
