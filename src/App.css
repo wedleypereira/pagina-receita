@@ -15,3 +15,17 @@
 img {
   border-radius: 1rem;
 }
+
+h1 {
+  line-height: 140%;
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h1,
+h2 {
+  color: #291b1a;
+}
