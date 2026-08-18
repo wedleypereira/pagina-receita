@@ -4,7 +4,10 @@ import "./App.css";
 function App() {
   return (
     <div id="page">
-      <img src="" alt="" />
+      <img
+        src="../src/assets/main-image.jpg"
+        alt="Imagem de um cupcake com grão de café e um chantilly"
+      />
       <main>
         <section id="about">
           <h1>Cupcake de café com chantilly</h1>
