@@ -19,7 +19,7 @@ Webpage promovido pela Rocketseat para ensino de tecnologias WEB.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML, CSS e React
+- HTML, CSS, React e JavaScript
 - Git e Github
 - Figma
 
